@@ -1,4 +1,6 @@
 {
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -12,11 +14,15 @@
 		".sass-cache",
 		"build"
 	],
-	"font_size": 11,
+	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"All Autocomplete",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"GitGutter",
 		"Vintage"
 	],
 	"remember_open_files": false,
